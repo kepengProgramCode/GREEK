@@ -1,47 +1,47 @@
 # Geeker-Admin
 
-### ä»‹ç» ğŸ“–
+### ½éÉÜ ??
 
-Geeker-Admin ä¸€æ¬¾åŸºäº Vue3.4ã€TypeScriptã€Vite5ã€Piniaã€Element-Plus å¼€æºçš„åå°ç®¡ç†æ¡†æ¶ï¼Œä½¿ç”¨ç›®å‰æœ€æ–°æŠ€æœ¯æ ˆå¼€å‘ã€‚é¡¹ç›®æä¾›å¼ºå¤§çš„ [ProTable](https://juejin.cn/post/7166068828202336263) ç»„ä»¶ï¼Œåœ¨ä¸€å®šç¨‹åº¦ä¸Šæé«˜æ‚¨çš„å¼€å‘æ•ˆç‡ã€‚å¦å¤–æœ¬é¡¹ç›®è¿˜å°è£…äº†ä¸€äº›å¸¸ç”¨ç»„ä»¶ã€Hooksã€æŒ‡ä»¤ã€åŠ¨æ€è·¯ç”±ã€æŒ‰é’®çº§åˆ«æƒé™æ§åˆ¶ç­‰åŠŸèƒ½ã€‚
+Geeker-Admin Ò»¿î»ùÓÚ Vue3.4¡¢TypeScript¡¢Vite5¡¢Pinia¡¢Element-Plus ¿ªÔ´µÄºóÌ¨¹ÜÀí¿ò¼Ü£¬Ê¹ÓÃÄ¿Ç°×îĞÂ¼¼ÊõÕ»¿ª·¢¡£ÏîÄ¿Ìá¹©Ç¿´óµÄ [ProTable](https://juejin.cn/post/7166068828202336263) ×é¼ş£¬ÔÚÒ»¶¨³Ì¶ÈÉÏÌá¸ßÄúµÄ¿ª·¢Ğ§ÂÊ¡£ÁíÍâ±¾ÏîÄ¿»¹·â×°ÁËÒ»Ğ©³£ÓÃ×é¼ş¡¢Hooks¡¢Ö¸Áî¡¢¶¯Ì¬Â·ÓÉ¡¢°´Å¥¼¶±ğÈ¨ÏŞ¿ØÖÆµÈ¹¦ÄÜ¡£
 
-### React ç‰ˆæœ¬ ğŸ”¥
+### React °æ±¾ ??
 
-- æœ‰éœ€è¦è¯·åŠ åº•éƒ¨å¾®ä¿¡äº†è§£ã€è´­ä¹°
+- ÓĞĞèÒªÇë¼Óµ×²¿Î¢ĞÅÁË½â¡¢¹ºÂò
 
-- Linkï¼šhttps://pro.spicyboy.cn
+- Link£ºhttps://pro.spicyboy.cn
 
-### åœ¨çº¿é¢„è§ˆ ğŸ‘€
+### ÔÚÏßÔ¤ÀÀ ??
 
-- Linkï¼šhttps://admin.spicyboy.cn
+- Link£ºhttps://admin.spicyboy.cn
 
-### ä»£ç ä»“åº“ â­
+### ´úÂë²Ö¿â ?
 
-- Giteeï¼šhttps://gitee.com/HalseySpicy/Geeker-Admin
-- GitHubï¼šhttps://github.com/HalseySpicy/Geeker-Admin
+- Gitee£ºhttps://gitee.com/HalseySpicy/Geeker-Admin
+- GitHub£ºhttps://github.com/HalseySpicy/Geeker-Admin
 
-### é¡¹ç›®æ–‡æ¡£ ğŸ“š
+### ÏîÄ¿ÎÄµµ ??
 
-- é¡¹ç›®æ›´æ–°æ—¥å¿—ï¼š[CHANGELOG.md](./CHANGELOG.md)
+- ÏîÄ¿¸üĞÂÈÕÖ¾£º[CHANGELOG.md](./CHANGELOG.md)
 
-- é¡¹ç›®æ–‡æ¡£åœ°å€ï¼šhttps://docs.spicyboy.cn
+- ÏîÄ¿ÎÄµµµØÖ·£ºhttps://docs.spicyboy.cn
 
-### é¡¹ç›®åŠŸèƒ½ ğŸ”¨
+### ÏîÄ¿¹¦ÄÜ ??
 
-- ä½¿ç”¨ Vue3.4 + TypeScript å¼€å‘ï¼Œå•æ–‡ä»¶ç»„ä»¶**ï¼œscript setupï¼**
-- é‡‡ç”¨ Vite5 ä½œä¸ºé¡¹ç›®å¼€å‘ã€æ‰“åŒ…å·¥å…·ï¼ˆé…ç½® gzip/brotli æ‰“åŒ…ã€tsx è¯­æ³•ã€è·¨åŸŸä»£ç†â€¦ï¼‰
-- ä½¿ç”¨ Pinia æ›¿ä»£ Vuexï¼Œè½»é‡ã€ç®€å•ã€æ˜“ç”¨ï¼Œé›†æˆ Pinia æŒä¹…åŒ–æ’ä»¶
-- ä½¿ç”¨ TypeScript å¯¹ Axios æ•´ä¸ªäºŒæ¬¡å°è£…ï¼ˆè¯·æ±‚æ‹¦æˆªã€å–æ¶ˆã€å¸¸ç”¨è¯·æ±‚å°è£…â€¦ï¼‰
-- åŸºäº Element äºŒæ¬¡å°è£… [ProTable](https://juejin.cn/post/7166068828202336263) ç»„ä»¶ï¼Œè¡¨æ ¼é¡µé¢å…¨éƒ¨ä¸ºé…ç½®é¡¹ Columns
-- æ”¯æŒ Element ç»„ä»¶å¤§å°åˆ‡æ¢ã€å¤šä¸»é¢˜å¸ƒå±€ã€æš—é»‘æ¨¡å¼ã€i18n å›½é™…åŒ–
-- ä½¿ç”¨ VueRouter é…ç½®åŠ¨æ€è·¯ç”±æƒé™æ‹¦æˆªã€è·¯ç”±æ‡’åŠ è½½ï¼Œæ”¯æŒé¡µé¢æŒ‰é’®æƒé™æ§åˆ¶
-- ä½¿ç”¨ KeepAlive å¯¹é¡µé¢è¿›è¡Œç¼“å­˜ï¼Œæ”¯æŒå¤šçº§åµŒå¥—è·¯ç”±ç¼“å­˜
-- å¸¸ç”¨è‡ªå®šä¹‰æŒ‡ä»¤å¼€å‘ï¼ˆæƒé™ã€å¤åˆ¶ã€æ°´å°ã€æ‹–æ‹½ã€èŠ‚æµã€é˜²æŠ–ã€é•¿æŒ‰â€¦ï¼‰
-- ä½¿ç”¨ Prettier ç»Ÿä¸€æ ¼å¼åŒ–ä»£ç ï¼Œé›†æˆ ESLintã€Stylelint ä»£ç æ ¡éªŒè§„èŒƒ
-- ä½¿ç”¨ huskyã€lint-stagedã€commitlintã€czgã€cz-git è§„èŒƒæäº¤ä¿¡æ¯
+- Ê¹ÓÃ Vue3.4 + TypeScript ¿ª·¢£¬µ¥ÎÄ¼ş×é¼ş**£¼script setup£¾**
+- ²ÉÓÃ Vite5 ×÷ÎªÏîÄ¿¿ª·¢¡¢´ò°ü¹¤¾ß£¨ÅäÖÃ gzip/brotli ´ò°ü¡¢tsx Óï·¨¡¢¿çÓò´úÀí¡­£©
+- Ê¹ÓÃ Pinia Ìæ´ú Vuex£¬ÇáÁ¿¡¢¼òµ¥¡¢Ò×ÓÃ£¬¼¯³É Pinia ³Ö¾Ã»¯²å¼ş
+- Ê¹ÓÃ TypeScript ¶Ô Axios Õû¸ö¶ş´Î·â×°£¨ÇëÇóÀ¹½Ø¡¢È¡Ïû¡¢³£ÓÃÇëÇó·â×°¡­£©
+- »ùÓÚ Element ¶ş´Î·â×° [ProTable](https://juejin.cn/post/7166068828202336263) ×é¼ş£¬±í¸ñÒ³ÃæÈ«²¿ÎªÅäÖÃÏî Columns
+- Ö§³Ö Element ×é¼ş´óĞ¡ÇĞ»»¡¢¶àÖ÷Ìâ²¼¾Ö¡¢°µºÚÄ£Ê½¡¢i18n ¹ú¼Ê»¯
+- Ê¹ÓÃ VueRouter ÅäÖÃ¶¯Ì¬Â·ÓÉÈ¨ÏŞÀ¹½Ø¡¢Â·ÓÉÀÁ¼ÓÔØ£¬Ö§³ÖÒ³Ãæ°´Å¥È¨ÏŞ¿ØÖÆ
+- Ê¹ÓÃ KeepAlive ¶ÔÒ³Ãæ½øĞĞ»º´æ£¬Ö§³Ö¶à¼¶Ç¶Ì×Â·ÓÉ»º´æ
+- ³£ÓÃ×Ô¶¨ÒåÖ¸Áî¿ª·¢£¨È¨ÏŞ¡¢¸´ÖÆ¡¢Ë®Ó¡¡¢ÍÏ×§¡¢½ÚÁ÷¡¢·À¶¶¡¢³¤°´¡­£©
+- Ê¹ÓÃ Prettier Í³Ò»¸ñÊ½»¯´úÂë£¬¼¯³É ESLint¡¢Stylelint ´úÂëĞ£Ñé¹æ·¶
+- Ê¹ÓÃ husky¡¢lint-staged¡¢commitlint¡¢czg¡¢cz-git ¹æ·¶Ìá½»ĞÅÏ¢
 
-### å®‰è£…ä½¿ç”¨æ­¥éª¤ ğŸ“”
+### °²×°Ê¹ÓÃ²½Öè ??
 
-- **Cloneï¼š**
+- **Clone£º**
 
 ```text
 # Gitee
@@ -50,163 +50,163 @@ git clone https://gitee.com/HalseySpicy/Geeker-Admin.git
 git clone https://github.com/HalseySpicy/Geeker-Admin.git
 ```
 
-- **Installï¼š**
+- **Install£º**
 
 ```text
 pnpm install
 ```
 
-- **Runï¼š**
+- **Run£º**
 
 ```text
 pnpm dev
 pnpm serve
 ```
 
-- **Buildï¼š**
+- **Build£º**
 
 ```text
-# å¼€å‘ç¯å¢ƒ
+# ¿ª·¢»·¾³
 pnpm build:dev
 
-# æµ‹è¯•ç¯å¢ƒ
+# ²âÊÔ»·¾³
 pnpm build:test
 
-# ç”Ÿäº§ç¯å¢ƒ
+# Éú²ú»·¾³
 pnpm build:pro
 ```
 
-- **Lintï¼š**
+- **Lint£º**
 
 ```text
-# eslint æ£€æµ‹ä»£ç 
+# eslint ¼ì²â´úÂë
 pnpm lint:eslint
 
-# prettier æ ¼å¼åŒ–ä»£ç 
+# prettier ¸ñÊ½»¯´úÂë
 pnpm lint:prettier
 
-# stylelint æ ¼å¼åŒ–æ ·å¼
+# stylelint ¸ñÊ½»¯ÑùÊ½
 pnpm lint:stylelint
 ```
 
-- **commitï¼š**
+- **commit£º**
 
 ```text
-# æäº¤ä»£ç ï¼ˆæäº¤å‰ä¼šè‡ªåŠ¨æ‰§è¡Œ lint:lint-staged å‘½ä»¤ï¼‰
+# Ìá½»´úÂë£¨Ìá½»Ç°»á×Ô¶¯Ö´ĞĞ lint:lint-staged ÃüÁî£©
 pnpm commit
 ```
 
-### é¡¹ç›®æˆªå›¾ ğŸ“·
+### ÏîÄ¿½ØÍ¼ ??
 
-- ç™»å½•é¡µï¼š
+- µÇÂ¼Ò³£º
 
 ![login_light](https://i.imgtg.com/2023/04/13/8tknp.png)
 
 ![login_dark](https://i.imgtg.com/2023/04/13/8tmpP.png)
 
-- é¦–é¡µï¼š
+- Ê×Ò³£º
 
 ![home_light](https://i.imgtg.com/2023/04/13/8tl1j.png)
 
 ![home_dark](https://i.imgtg.com/2023/04/13/8tpfb.png)
 
-- è¡¨æ ¼é¡µï¼š
+- ±í¸ñÒ³£º
 
 ![table_light](https://i.imgtg.com/2023/04/13/8tfMx.png)
 
 ![table_dark](https://i.imgtg.com/2023/04/13/8tv8F.png)
 
-- æ•°æ®å¯è§†åŒ–
+- Êı¾İ¿ÉÊÓ»¯
 
 ![dashboard](https://i.imgtg.com/2023/04/14/82Grx.png)
 
-- æ•°æ®å¤§å±ï¼š
+- Êı¾İ´óÆÁ£º
 
 ![dataScreen](https://i.imgtg.com/2023/01/16/QP8HF.png)
 
-### æ–‡ä»¶èµ„æºç›®å½• ğŸ“š
+### ÎÄ¼ş×ÊÔ´Ä¿Â¼ ??
 
 ```text
 Geeker-Admin
-â”œâ”€ .husky                  # husky é…ç½®æ–‡ä»¶
-â”œâ”€ .vscode                 # VSCode æ¨èé…ç½®
-â”œâ”€ build                   # Vite é…ç½®é¡¹
-â”œâ”€ public                  # é™æ€èµ„æºæ–‡ä»¶ï¼ˆè¯¥æ–‡ä»¶å¤¹ä¸ä¼šè¢«æ‰“åŒ…ï¼‰
-â”œâ”€ src
-â”‚  â”œâ”€ api                  # API æ¥å£ç®¡ç†
-â”‚  â”œâ”€ assets               # é™æ€èµ„æºæ–‡ä»¶
-â”‚  â”œâ”€ components           # å…¨å±€ç»„ä»¶
-â”‚  â”œâ”€ config               # å…¨å±€é…ç½®é¡¹
-â”‚  â”œâ”€ directives           # å…¨å±€æŒ‡ä»¤æ–‡ä»¶
-â”‚  â”œâ”€ enums                # é¡¹ç›®å¸¸ç”¨æšä¸¾
-â”‚  â”œâ”€ hooks                # å¸¸ç”¨ Hooks å°è£…
-â”‚  â”œâ”€ languages            # è¯­è¨€å›½é™…åŒ– i18n
-â”‚  â”œâ”€ layouts              # æ¡†æ¶å¸ƒå±€æ¨¡å—
-â”‚  â”œâ”€ routers              # è·¯ç”±ç®¡ç†
-â”‚  â”œâ”€ stores               # pinia store
-â”‚  â”œâ”€ styles               # å…¨å±€æ ·å¼æ–‡ä»¶
-â”‚  â”œâ”€ typings              # å…¨å±€ ts å£°æ˜
-â”‚  â”œâ”€ utils                # å¸¸ç”¨å·¥å…·åº“
-â”‚  â”œâ”€ views                # é¡¹ç›®æ‰€æœ‰é¡µé¢
-â”‚  â”œâ”€ App.vue              # é¡¹ç›®ä¸»ç»„ä»¶
-â”‚  â”œâ”€ main.ts              # é¡¹ç›®å…¥å£æ–‡ä»¶
-â”‚  â””â”€ vite-env.d.ts        # æŒ‡å®š ts è¯†åˆ« vue
-â”œâ”€ .editorconfig           # ç»Ÿä¸€ä¸åŒç¼–è¾‘å™¨çš„ç¼–ç é£æ ¼
-â”œâ”€ .env                    # vite å¸¸ç”¨é…ç½®
-â”œâ”€ .env.development        # å¼€å‘ç¯å¢ƒé…ç½®
-â”œâ”€ .env.production         # ç”Ÿäº§ç¯å¢ƒé…ç½®
-â”œâ”€ .env.test               # æµ‹è¯•ç¯å¢ƒé…ç½®
-â”œâ”€ .eslintignore           # å¿½ç•¥ Eslint æ ¡éªŒ
-â”œâ”€ .eslintrc.cjs           # Eslint æ ¡éªŒé…ç½®æ–‡ä»¶
-â”œâ”€ .gitignore              # å¿½ç•¥ git æäº¤
-â”œâ”€ .prettierignore         # å¿½ç•¥ Prettier æ ¼å¼åŒ–
-â”œâ”€ .prettierrc.cjs         # Prettier æ ¼å¼åŒ–é…ç½®
-â”œâ”€ .stylelintignore        # å¿½ç•¥ stylelint æ ¼å¼åŒ–
-â”œâ”€ .stylelintrc.cjs        # stylelint æ ·å¼æ ¼å¼åŒ–é…ç½®
-â”œâ”€ CHANGELOG.md            # é¡¹ç›®æ›´æ–°æ—¥å¿—
-â”œâ”€ commitlint.config.cjs   # git æäº¤è§„èŒƒé…ç½®
-â”œâ”€ index.html              # å…¥å£ html
-â”œâ”€ LICENSE                 # å¼€æºåè®®æ–‡ä»¶
-â”œâ”€ lint-staged.config.cjs  # lint-staged é…ç½®æ–‡ä»¶
-â”œâ”€ package-lock.json       # ä¾èµ–åŒ…åŒ…ç‰ˆæœ¬é”
-â”œâ”€ package.json            # ä¾èµ–åŒ…ç®¡ç†
-â”œâ”€ postcss.config.cjs      # postcss é…ç½®
-â”œâ”€ README.md               # README ä»‹ç»
-â”œâ”€ tsconfig.json           # typescript å…¨å±€é…ç½®
-â””â”€ vite.config.ts          # vite å…¨å±€é…ç½®æ–‡ä»¶
+©À©¤ .husky                  # husky ÅäÖÃÎÄ¼ş
+©À©¤ .vscode                 # VSCode ÍÆ¼öÅäÖÃ
+©À©¤ build                   # Vite ÅäÖÃÏî
+©À©¤ public                  # ¾²Ì¬×ÊÔ´ÎÄ¼ş£¨¸ÃÎÄ¼ş¼Ğ²»»á±»´ò°ü£©
+©À©¤ src
+©¦  ©À©¤ api                  # API ½Ó¿Ú¹ÜÀí
+©¦  ©À©¤ assets               # ¾²Ì¬×ÊÔ´ÎÄ¼ş
+©¦  ©À©¤ components           # È«¾Ö×é¼ş
+©¦  ©À©¤ config               # È«¾ÖÅäÖÃÏî
+©¦  ©À©¤ directives           # È«¾ÖÖ¸ÁîÎÄ¼ş
+©¦  ©À©¤ enums                # ÏîÄ¿³£ÓÃÃ¶¾Ù
+©¦  ©À©¤ hooks                # ³£ÓÃ Hooks ·â×°
+©¦  ©À©¤ languages            # ÓïÑÔ¹ú¼Ê»¯ i18n
+©¦  ©À©¤ layouts              # ¿ò¼Ü²¼¾ÖÄ£¿é
+©¦  ©À©¤ routers              # Â·ÓÉ¹ÜÀí
+©¦  ©À©¤ stores               # pinia store
+©¦  ©À©¤ styles               # È«¾ÖÑùÊ½ÎÄ¼ş
+©¦  ©À©¤ typings              # È«¾Ö ts ÉùÃ÷
+©¦  ©À©¤ utils                # ³£ÓÃ¹¤¾ß¿â
+©¦  ©À©¤ views                # ÏîÄ¿ËùÓĞÒ³Ãæ
+©¦  ©À©¤ App.vue              # ÏîÄ¿Ö÷×é¼ş
+©¦  ©À©¤ main.ts              # ÏîÄ¿Èë¿ÚÎÄ¼ş
+©¦  ©¸©¤ vite-env.d.ts        # Ö¸¶¨ ts Ê¶±ğ vue
+©À©¤ .editorconfig           # Í³Ò»²»Í¬±à¼­Æ÷µÄ±àÂë·ç¸ñ
+©À©¤ .env                    # vite ³£ÓÃÅäÖÃ
+©À©¤ .env.development        # ¿ª·¢»·¾³ÅäÖÃ
+©À©¤ .env.production         # Éú²ú»·¾³ÅäÖÃ
+©À©¤ .env.test               # ²âÊÔ»·¾³ÅäÖÃ
+©À©¤ .eslintignore           # ºöÂÔ Eslint Ğ£Ñé
+©À©¤ .eslintrc.cjs           # Eslint Ğ£ÑéÅäÖÃÎÄ¼ş
+©À©¤ .gitignore              # ºöÂÔ git Ìá½»
+©À©¤ .prettierignore         # ºöÂÔ Prettier ¸ñÊ½»¯
+©À©¤ .prettierrc.cjs         # Prettier ¸ñÊ½»¯ÅäÖÃ
+©À©¤ .stylelintignore        # ºöÂÔ stylelint ¸ñÊ½»¯
+©À©¤ .stylelintrc.cjs        # stylelint ÑùÊ½¸ñÊ½»¯ÅäÖÃ
+©À©¤ CHANGELOG.md            # ÏîÄ¿¸üĞÂÈÕÖ¾
+©À©¤ commitlint.config.cjs   # git Ìá½»¹æ·¶ÅäÖÃ
+©À©¤ index.html              # Èë¿Ú html
+©À©¤ LICENSE                 # ¿ªÔ´Ğ­ÒéÎÄ¼ş
+©À©¤ lint-staged.config.cjs  # lint-staged ÅäÖÃÎÄ¼ş
+©À©¤ package-lock.json       # ÒÀÀµ°ü°ü°æ±¾Ëø
+©À©¤ package.json            # ÒÀÀµ°ü¹ÜÀí
+©À©¤ postcss.config.cjs      # postcss ÅäÖÃ
+©À©¤ README.md               # README ½éÉÜ
+©À©¤ tsconfig.json           # typescript È«¾ÖÅäÖÃ
+©¸©¤ vite.config.ts          # vite È«¾ÖÅäÖÃÎÄ¼ş
 ```
 
-### æµè§ˆå™¨æ”¯æŒ ğŸŒ
+### ä¯ÀÀÆ÷Ö§³Ö ??
 
-- æœ¬åœ°å¼€å‘æ¨èä½¿ç”¨ Chrome æœ€æ–°ç‰ˆæµè§ˆå™¨ [Download](https://www.google.com/intl/zh-CN/chrome/)ã€‚
-- ç”Ÿäº§ç¯å¢ƒæ”¯æŒç°ä»£æµè§ˆå™¨ï¼Œä¸å†æ”¯æŒ IE æµè§ˆå™¨ï¼Œæ›´å¤šæµè§ˆå™¨å¯ä»¥æŸ¥çœ‹ [Can I Use Es Module](https://caniuse.com/?search=ESModule)ã€‚
+- ±¾µØ¿ª·¢ÍÆ¼öÊ¹ÓÃ Chrome ×îĞÂ°æä¯ÀÀÆ÷ [Download](https://www.google.com/intl/zh-CN/chrome/)¡£
+- Éú²ú»·¾³Ö§³ÖÏÖ´úä¯ÀÀÆ÷£¬²»ÔÙÖ§³Ö IE ä¯ÀÀÆ÷£¬¸ü¶àä¯ÀÀÆ÷¿ÉÒÔ²é¿´ [Can I Use Es Module](https://caniuse.com/?search=ESModule)¡£
 
 | ![IE](https://i.imgtg.com/2023/04/11/8z7ot.png) | ![Edge](https://i.imgtg.com/2023/04/11/8zr3p.png) | ![Firefox](https://i.imgtg.com/2023/04/11/8zKiU.png) | ![Chrome](https://i.imgtg.com/2023/04/11/8zNrx.png) | ![Safari](https://i.imgtg.com/2023/04/11/8zeGj.png) |
 | :---------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
 |                   not support                   |                  last 2 versions                  |                   last 2 versions                    |                   last 2 versions                   |                   last 2 versions                   |
 
-### é¡¹ç›®åå°æ¥å£ ğŸ§©
+### ÏîÄ¿ºóÌ¨½Ó¿Ú ??
 
-é¡¹ç›®åå°æ¥å£å®Œå…¨é‡‡ç”¨ Mock æ•°æ®ï¼Œæ„Ÿè°¢ä»¥ä¸‹ Mock å¹³å°æ”¯æŒï¼š
+ÏîÄ¿ºóÌ¨½Ó¿ÚÍêÈ«²ÉÓÃ Mock Êı¾İ£¬¸ĞĞ»ÒÔÏÂ Mock Æ½Ì¨Ö§³Ö£º
 
-- FastMockï¼š https://www.fastmock.site
-- EasyMockï¼šhttps://mock.mengxuegu.com
+- FastMock£º https://www.fastmock.site
+- EasyMock£ºhttps://mock.mengxuegu.com
 
-### å¾®ä¿¡äº¤æµç¾¤ ğŸ‘¨â€ğŸ‘¨â€ğŸ‘¦â€ğŸ‘¦
+### Î¢ĞÅ½»Á÷Èº ???????????
 
-å¾®ä¿¡ä¸€ç¾¤ã€äºŒç¾¤ã€ä¸‰ç¾¤ã€å››ç¾¤å·²æ»¡ï¼Œæ‰«æäºŒç»´ç è¿›å…¥äº”ç¾¤ï¼ˆæ”¯æŒçŸ¥è¯†ä»˜è´¹ï¼‰ğŸ¤ª
+Î¢ĞÅÒ»Èº¡¢¶şÈº¡¢ÈıÈº¡¢ËÄÈºÒÑÂú£¬É¨Ãè¶şÎ¬Âë½øÈëÎåÈº£¨Ö§³ÖÖªÊ¶¸¶·Ñ£©??
 
-|                                      å¾®ä¿¡äºŒç»´ç                                        |
+|                                      Î¢ĞÅ¶şÎ¬Âë                                       |
 | :-----------------------------------------------------------------------------------: |
 | <img src="https://pic.ziyuan.wang/user/guest/2024/01/66_128f4a1d5a4bc.png" width=170> |
 
-### æèµ  ğŸµ
+### ¾èÔù ??
 
-å¦‚æœä½ æ­£åœ¨ä½¿ç”¨è¿™ä¸ªé¡¹ç›®æˆ–è€…å–œæ¬¢è¿™ä¸ªé¡¹ç›®çš„ï¼Œå¯ä»¥é€šè¿‡ä»¥ä¸‹æ–¹å¼æ”¯æŒæˆ‘ï¼š
+Èç¹ûÄãÕıÔÚÊ¹ÓÃÕâ¸öÏîÄ¿»òÕßÏ²»¶Õâ¸öÏîÄ¿µÄ£¬¿ÉÒÔÍ¨¹ıÒÔÏÂ·½Ê½Ö§³ÖÎÒ£º
 
-- Starã€Forkã€Watch ä¸€é”®ä¸‰è¿ ğŸš€
-- é€šè¿‡å¾®ä¿¡ã€æ”¯ä»˜å®ä¸€æ¬¡æ€§ææ¬¾ â¤
+- Star¡¢Fork¡¢Watch Ò»¼üÈıÁ¬ ??
+- Í¨¹ıÎ¢ĞÅ¡¢Ö§¸¶±¦Ò»´ÎĞÔ¾è¿î ?
 
-|                                        å¾®ä¿¡                                        |                                       æ”¯ä»˜å®                                       |
+|                                        Î¢ĞÅ                                        |                                       Ö§¸¶±¦                                       |
 | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | <img src="https://i.imgtg.com/2023/01/16/QRzBX.png" alt="Alipay QRcode" width=170> | <img src="https://i.imgtg.com/2023/01/16/QRFZt.png" alt="Wechat QRcode" width=170> |
