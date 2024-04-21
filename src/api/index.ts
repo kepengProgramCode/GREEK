@@ -52,7 +52,7 @@ class RequestHttp {
           config.headers.Authorization = `Bearer ${userStore.token}`;
         }
         // 设置默认 Content-Type,检查是否设置默认的Content-Type
-        config.headers["Content-Type"] = config.headers["Content-Type"] || "application/json";
+        // config.headers["Content-Type"] = config.headers["Content-Type"] || "application/json";
         return config;
       },
       (error: AxiosError) => {
