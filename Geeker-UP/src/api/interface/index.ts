@@ -47,6 +47,22 @@ export namespace Login {
   }
 }
 
+// 设备
+export namespace Sensor {
+  export interface SensorClass {
+    sensor_class_id: number;
+    sensor_class: string;
+    desc: string;
+  }
+  export interface SensorType {
+    sensor_type_id: string;
+    name: string;
+    sensor_type_id_int: number;
+    sensor_class: string;
+    desc: string;
+  }
+}
+
 // 用户管理模块
 export namespace User {
   export interface ReqUserParams extends ReqPage {
