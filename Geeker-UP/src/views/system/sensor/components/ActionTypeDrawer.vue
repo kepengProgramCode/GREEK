@@ -9,11 +9,11 @@
       :model="drawerProps.row"
       :hide-required-asterisk="drawerProps.isView"
     >
-      <el-form-item label="类型" prop="sensor_class">
-        <el-input v-model="drawerProps.row!.sensor_class" placeholder="请填写设备类型" clearable></el-input>
+      <el-form-item label="类型" prop="action_type_id">
+        <el-input v-model="drawerProps.row!.action_type_id" placeholder="请填写Action类型" clearable></el-input>
       </el-form-item>
-      <el-form-item label="描述" prop="desc">
-        <el-input v-model="drawerProps.row!.desc" placeholder="请填写设备描述" clearable></el-input>
+      <el-form-item label="名称" prop="action_name">
+        <el-input v-model="drawerProps.row!.action_name" placeholder="请填写Action名称" clearable></el-input>
       </el-form-item>
     </el-form>
     <template #footer>
@@ -23,20 +23,20 @@
   </el-drawer>
 </template>
 
-<script setup lang="ts" name="TypeDrawer">
+<script setup lang="ts" name="ActionTypeDrawer">
 import { ref, reactive } from "vue";
 import { ElMessage, FormInstance } from "element-plus";
 import { Sensor } from "@/api/interface";
 
 const rules = reactive({
-  sensor_class: [{ required: true, max: 3, message: "请填写设备类型,不超过3个字符" }],
-  desc: [{ required: true, max: 50, message: "请填写设备描述,不超过50个字符" }]
+  action_type_id: [{ required: true, max: 3, message: "请填写Action类型,不超过3个字符" }],
+  action_name: [{ required: true, max: 50, message: "请填写Action名称,不超过50个字符" }]
 });
 
 interface DrawerProps {
   title: string;
   isView: boolean;
-  row: Partial<Sensor.SensorClass>;
+  row: Partial<Sensor.ActionType>;
   api?: (params: any) => Promise<any>;
   getTableList?: () => void;
 }
@@ -67,7 +67,7 @@ const handleSubmit = () => {
     try {
       debugger;
       await drawerProps.value.api!(drawerProps.value.row);
-      ElMessage.success({ message: `${drawerProps.value.title}用户成功！` });
+      ElMessage.success({ message: `${drawerProps.value.title}Action成功！` });
       drawerProps.value.getTableList!();
       drawerVisible.value = false;
     } catch (error) {

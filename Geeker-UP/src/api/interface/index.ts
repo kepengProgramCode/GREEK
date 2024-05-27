@@ -61,6 +61,16 @@ export namespace Sensor {
     sensor_class: string;
     desc: string;
   }
+  export interface ActionType {
+    id: number;
+    action_name: string;
+    action_type_id: string;
+  }
+  export interface ActionExeType {
+    id: number;
+    action_name: string;
+    action_type_id: string;
+  }
 }
 
 // 用户管理模块

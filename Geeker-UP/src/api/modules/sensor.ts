@@ -37,3 +37,20 @@ export const editSensorType = (params: Sensor.SensorType) => {
 export const delSensorType = (params: Sensor.SensorType) => {
   return http.post(`/Sensor/DelSensorTypeList`, params);
 };
+
+// 获取设备型号列表
+export const getActionTypeList = params => {
+  return http.post<ResPage<Sensor.ActionType>>(`/Sensor/GetActionTypeList`, params);
+};
+
+export const addActionType = (params: Sensor.ActionType) => {
+  return http.post(`/Sensor/AddSensorTypeList`, params);
+};
+
+export const editActionType = (params: Sensor.ActionType) => {
+  return http.post(`/Sensor/UpdateActionTypeList`, params);
+};
+
+export const delActionType = (params: Sensor.ActionType) => {
+  return http.post(`/Sensor/DelActionTypeList`, params);
+};

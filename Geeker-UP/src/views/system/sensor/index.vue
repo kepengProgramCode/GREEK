@@ -4,14 +4,14 @@
       <template #label>
         <span class="custom-tabs-label">
           <el-icon><calendar /></el-icon>
-          <span>Sensor类</span>
+          <span>基础设备类型</span>
         </span>
       </template>
       <S_CLASS />
     </el-tab-pane>
     <el-tab-pane label="设备类型"><S_TYPE /></el-tab-pane>
-    <el-tab-pane label="Role">Role</el-tab-pane>
-    <el-tab-pane label="Task">Task</el-tab-pane>
+    <el-tab-pane label="执行动作"><A_TYPE /></el-tab-pane>
+    <el-tab-pane label="设备执行方法"><E_A_TYPE /></el-tab-pane>
   </el-tabs>
 </template>
 
@@ -19,6 +19,8 @@
 import { Calendar } from "@element-plus/icons-vue";
 import S_CLASS from "./sensorClass.vue";
 import S_TYPE from "./sensorType.vue";
+import A_TYPE from "./sensorAction.vue";
+import E_A_TYPE from "./sensorActionExe.vue";
 </script>
 
 <style>
